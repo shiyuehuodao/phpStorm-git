@@ -6,3 +6,5 @@ echo "hello git3";
 echo "master test!";
 echo "hello git4";
 echo "hot-fix test";
+echo "push index.php";
+
